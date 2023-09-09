@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nilo Andrei</title>
+    <style>
+        body {
+            background-color: #F44E3F;
+            color: blueviolet;
+            font: 20pt time news roman;
+        }
+        p {
+            color: black;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1>Meu primeiro portifólio</h1>
+    <p>meu nome é Nilo Andrei, tenho 21 anos, moro em belém do pará, 
+        curso engenharia na ufra e sou leso</p>
+        <script>
+
+            
+        </script>
+    
+</body>
+</html>
